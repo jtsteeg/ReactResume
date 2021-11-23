@@ -5,7 +5,7 @@ const Title = () => {
   return (
     <div>
       <h1 className={styles.title}>Jacob Steeg Resume</h1>
-      <h4>Graphic Design is my passion</h4>
+      <h2 className={styles.rainbow_text_animated}> Graphic Design is my passion</h2>
     </div>
   );
 }
