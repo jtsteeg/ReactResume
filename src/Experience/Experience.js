@@ -10,25 +10,25 @@ export default class App extends React.Component {
         <h4> Datacenter Technician </h4>
             <p class="date"> 2017 - Current. Promoted to Senior in July 2021.</p>
             <ul>
-                <li> Ensures Microsoft Visio is installed on all production equipment.</li>
-                <li> Responsible for 100% increase of bees in the workplace.</li>
-                <li> Personally taste tests all cabling prior to installation</li>
-                <li> Rebuilt company toaster to run AI powered blockchain</li>
+                <li> Updates and standardizes processes and procedures for local and global operations.</li>
+                <li> Oversees safety briefings across multiple shifts.</li>
+                <li> Facilitates the distribution of new technical knowledge across a variety of MS platforms.</li>
+                <li> Manages day to day DC operations with the highest standards of integrity, respect, and accountability. </li>
             </ul>
             <h3> Atos</h3>
             <h4> Datacenter Technician Lead</h4>
             <p class="date"> 2015 - 2017</p>
             <ul>
-                <li> Supervised and developed a team of 4-5 feral wallabies.</li>
-                <li> Successfully accomplished lunch every day</li>
-                <li> Messaged Steve Wozniak on linkedIn, Steve if your reading this please respond re: my app idea  </li>
+                <li> Supervised and developed a team of 4-5 Datacenter Technicians.</li>
+                <li> Dispatched daily service ticket activity, customer calls and service level agreements.</li>
+                <li> Tracked deployments and coordinated with project management team to ensure successful completion before deadline.   </li>
             </ul>
             <h3> Egltech</h3>
             <h4> Helpdesk Support Technician</h4>
             <p class="date"> 2014 - 2015</p>
             <ul>
-                <li> Deployed OS and all sorts of stuff on client workstations.</li>
-                <li> Provided remote support to clients using cryptic, passive-aggressive telegrams.</li>
+                <li> Deployed OS and essential software  on client workstations.</li>
+                <li> Provided remote support to clients using Kaseya and Bomgar.</li>
             </ul>        
       </div>
     );
