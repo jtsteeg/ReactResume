@@ -34,7 +34,7 @@
 
 .img:hover {
   animation-name: hinge;
-  animation-duration: 4s;
+  animation-duration: 3s;
   animation-fill-mode: forwards;
 }
 
